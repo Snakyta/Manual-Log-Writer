@@ -1,0 +1,2 @@
+C:\Users\Phil\source\repos\LogWriter\x64\Release\LogWriter.exe.lastcodeanalysissucceeded
+C:\Users\Phil\source\repos\LogWriter\LogWriter\x64\Release\NativeCodeAnalysis.read.1.tlog

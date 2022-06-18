@@ -1,0 +1,18 @@
+﻿  main.cpp
+  Log.cpp
+  Log_Menu.cpp
+  Log_Write.cpp
+  Log_Read.cpp
+  Log_Delete.cpp
+  Code Analysis für C/C++ wird ausgeführt...
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 235 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  LogWriter.vcxproj -> C:\Users\Phil\source\repos\LogWriter\x64\Release\LogWriter.exe
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log.cpp(57): warning C6031: Rückgabewert wird ignoriert: "_getch".
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log.cpp(64): warning C6031: Rückgabewert wird ignoriert: "_getch".
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log.cpp(77): warning C6031: Rückgabewert wird ignoriert: "_getch".
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log.cpp(103): warning C6031: Rückgabewert wird ignoriert: "_getch".
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log.cpp(120): warning C6031: Rückgabewert wird ignoriert: "_getch".
+C:\Users\Phil\source\repos\LogWriter\LogWriter\Log_Delete.cpp(77): warning C6031: Rückgabewert wird ignoriert: "_getch".

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Phil\source\repos\LogWriter\LogWriter\</FILEPATH>
+      <FILENAME>Log_Delete.cpp</FILENAME>
+      <LINE>77</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Rückgabewert wird ignoriert: "_getch".</DESCRIPTION>
+    <FUNCTION>Log_Delete::DeleteLine</FUNCTION>
+    <DECORATED>?DeleteLine@Log_Delete@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>38</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
