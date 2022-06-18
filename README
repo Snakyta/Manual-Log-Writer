@@ -1,0 +1,6 @@
+To open already existing files follow these steps:
+
+1: Go to Select Log File (Input: 0)
+2: Go to Select existing log file (Input: 1)
+3: Now Enter the Path of you file Example: C:\Users\"YOUR USER"\source\repos\LogWriter\x64\Release\"YOUR FILENAME".txt
+Obviously only works with .txt files!
